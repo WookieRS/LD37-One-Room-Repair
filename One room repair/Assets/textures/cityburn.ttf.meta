@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: fa0b6fb5ac1a00b42bd53c1c8e4ec036
+timeCreated: 1481466326
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: cityburn
+  fontNames:
+  - cityburn
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
